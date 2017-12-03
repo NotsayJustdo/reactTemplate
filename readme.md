@@ -1,4 +1,4 @@
-# vue开发环境模版
+# react开发环境模版
 
 利用vue-cli改成的react开发脚手架
 
