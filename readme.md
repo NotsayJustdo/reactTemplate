@@ -21,7 +21,7 @@
 ## 项目目录结构
 如果你对vue-cli熟悉，那么这个结构你就不会陌生
 
-![目录结构](./constructor.png)
+![目录结构](./constructor.png) 
 
 ## 项目图片
 
